@@ -1,0 +1,11 @@
+bokeh==3.8.2
+jinja2
+jupyter
+pyfftw
+pylint
+pyulog>=1.1
+requests
+scipy>=1.8.1
+simplekml
+smopy
+pycryptodome>=3.18
